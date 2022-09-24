@@ -1,0 +1,14 @@
+@font-face{
+  font-family: "jalnan";
+  src: url("../font/Jalnan.ttf") format("truetype");
+}
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "jalnan";
+}
+.container{
+  margin: 0 auto;
+  width: 1024px;
+  text-align: center;
+}
